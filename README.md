@@ -1,7 +1,6 @@
 AWS
 NextJS
-Styled Component
-Tailwind is installed, but not used
+Tailwind
 
 ## Getting Started
 

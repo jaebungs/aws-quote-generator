@@ -12,7 +12,7 @@ const nextConfig = {
         // Enabled by default.
         fileName: true,
         // Empty by default.
-        topLevelImportPaths: [],
+        // topLevelImportPaths: [],
         // Defaults to ["index"].
         meaninglessFileNames: ["index"],
         // Enabled by default.
