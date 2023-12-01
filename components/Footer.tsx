@@ -9,6 +9,7 @@ const Footer = () => {
             <>
             Quotes Generated: {numberOfQuotes}
             <br />
+            Nom Nom Nom
           </>
         </div>
     )    
